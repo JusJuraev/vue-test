@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Tashkent",
+    "test": "Test",
+    "children": [
+      {
+        "id": 1,
+        "name": "Tashkent Child 1",
+        "test": "Tashkent Test 1",
+        "children": [
+          {
+            "id": 1,
+            "name": "Tashkent SubChild 1",
+            "test": "Lorem ipsum",
+            "children": [
+              {
+                "id": 1,
+                "name": "Tashkent Next level child",
+                "test": "Lorem ipsum dolor"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Tashkent SubChild 2",
+            "test": "Lorem ipsum"
+          },
+          {
+            "id": 3,
+            "name": "Tashkent SubChild 3",
+            "test": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tashkent Child 2",
+        "test": "Tashkent Test 2"
+      },
+      {
+        "id": 3,
+        "name": "Tashkent Child 3",
+        "test": "Tashkent Test 3"
+      },
+      {
+        "id": 4,
+        "name": "Tashkent Child 4",
+        "test": "Tashkent Test 4"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samarkand",
+    "test": "Test",
+    "children": [
+      {
+        "id": 1,
+        "name": "Samarkand Child 1",
+        "test": "Samarkand Test 1"
+      },
+      {
+        "id": 2,
+        "name": "Samarkand Child 2",
+        "test": "Samarkand Test 2"
+      },
+      {
+        "id": 3,
+        "name": "Samarkand Child 3",
+        "test": "Samarkand Test 3"
+      },
+      {
+        "id": 4,
+        "name": "Samarkand Child 4",
+        "test": "Samarkand Test 4"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bukhara",
+    "test": "Test",
+    "children": [
+      {
+        "id": 1,
+        "name": "Bukhara Child 1",
+        "test": "Bukhara Test 1"
+      },
+      {
+        "id": 2,
+        "name": "Bukhara Child 2",
+        "test": "Bukhara Test 2"
+      },
+      {
+        "id": 3,
+        "name": "Bukhara Child 3",
+        "test": "Bukhara Test 3"
+      },
+      {
+        "id": 4,
+        "name": "Bukhara Child 4",
+        "test": "Bukhara Test 4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tashkent City",
+    "test": "Test lorem"
+  }
+]

@@ -6,15 +6,15 @@
 
 <script>
   export default {
-    name: 'Col',
+    name: 'Column',
     props: {
       span: Number
     },
     computed: {
       getFlexBasis () {
         const maxColumnsCount = 24
-        const flexBasisValue = (this.props.span / maxColumnsCount) * 100
-        return this.props.span ? `${flexBasisValue}%` : 'unset'
+        const flexBasisValue = (this.span / maxColumnsCount) * 100
+        return this.span ? `${flexBasisValue}%` : 'unset'
       }
     }
   }
